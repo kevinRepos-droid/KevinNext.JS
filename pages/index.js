@@ -5,16 +5,15 @@ import Layout from '../components/Layout'
 
 export default function Home() {
   return (
-    <div>
-      <Layout>
+ <div>
+      <Layout
+        pagina ='inicio'
+      >
         <h1>desde inicio</h1>
+
       </Layout>
 
-
-
-
       
-
 
     </div>
   )

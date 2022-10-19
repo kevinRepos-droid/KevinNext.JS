@@ -1,5 +1,6 @@
 import Head  from 'next/head'
-import Headear  from './Header'
+import Header  from './Header'
+import Footer  from './Footer'
 
 
 const Layout = ({children, pagina}) => {
@@ -11,11 +12,13 @@ const Layout = ({children, pagina}) => {
           Uniformes" />
         </Head>
 
-        <Headear />
-
-    
+        
+        <Header /> 
 
         {children}
+        
+        <Footer/>
+
         </div>
 
   )
