@@ -7,8 +7,8 @@
         <header className={styles.header}>
             <div className="contenedor">
                 <div className={styles.barra}>
-                        <Link href={"/"}>
-                            <Image width={400} height = {100} src="/img/public/icon.png" alt="Imagen Logo" />
+                        <Link href="/">
+                            <Image width={150} height={140} src="/img/logo.png" alt="Imagen Logo" />
                         </Link>
 
                       <nav className={styles.navegacion}>
