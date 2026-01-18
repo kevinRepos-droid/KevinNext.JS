@@ -7,7 +7,7 @@ export default function Home() {
   return (
  <div>
       <Layout
-        pagina ='inicio'
+        pagina ='Inicio'
       >
         <h1>desde inicio</h1>
 

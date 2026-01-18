@@ -6,7 +6,7 @@ import Layout from '../components/Layout'
 const Nosotros = () => {
   return (
     <Layout
-    pagina='nosotros'
+    pagina='Nosotros'
   >
       <h1> desde nosotros</h1>
     </Layout>

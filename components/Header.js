@@ -5,7 +5,7 @@
  const Header = () => {
     return (
         <header className={styles.header}>
-            <div className='contenedor'>
+            <div className="contenedor">
                 <div className={styles.barra}>
                         <Link href={"/"}>
                             <Image width={400} height = {100} src="/img/public/icon.png" alt="Imagen Logo" />
