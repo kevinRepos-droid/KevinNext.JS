@@ -7,12 +7,12 @@
 
 .barra{
     display: flex;
-    flex-direction: colum;
+    flex-direction: column;
     align-items: center;
     
 }
 
-@media(min-width:786px ){
+@media(min-width:786px){
     .barra{
         flex-direction: row;
         justify-content: space-between;
@@ -23,7 +23,7 @@
 }
 .navegacion {
     margin-top: 5rem;
-    display: felx;
+    display: flex;
     gap: 2rem;
 }
 @media (min-width: 786px) {
@@ -39,7 +39,7 @@
     font-weight: 700;
     text-transform: uppercase;
     padding: .5rem;
-    transition-property: background-color ;
+    transition-property: background-color;
     transition-duration: .3s;
 }
 .navegacion a:hover{
