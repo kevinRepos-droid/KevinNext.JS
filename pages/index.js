@@ -9,7 +9,9 @@ export default function Home() {
       <Layout
         pagina ='Inicio'
       >
-        <h1>desde inicio</h1>
+        <h1>bienvenido</h1>
+                <h1>vista Desde inicio</h1>
+
 
 
 
