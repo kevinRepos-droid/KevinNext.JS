@@ -7,10 +7,6 @@ export default function Home() {
         pagina ='Inicio'
       >
         <h1>desde inicio</h1>
-        <h1>desde inicio</h1>
-                <h1>desde inicio</h1>
-
-        <h1>hola</h1>
 
 
 
