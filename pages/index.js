@@ -1,6 +1,3 @@
-import Head from 'next/head'
-import Image from 'next/image'
-import Link from 'next/link'
 import Layout from '../components/Layout'
 
 export default function Home() {
@@ -10,8 +7,6 @@ export default function Home() {
         pagina ='Inicio'
       >
         <h1>desde inicio</h1>
-        <h1>desde inicio</h1>
-        <h1>hola</h1>
 
 
 
